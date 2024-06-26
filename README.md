@@ -33,7 +33,7 @@ The model's performance is evaluated using Mean Squared Error (MSE) on a separat
 Performance is visualized by plotting the predicted sine values against the true sine values. The plots are saved to a directory called [saved_plots](saved_plots).
 
 
-![Alt text](saved_plots/plot_epoch_199.png)
+![Alt text](tested_values.png)
 
 ## Limitations
 - The model is trained on a specific range of input values. Its performance outside this range may not be reliable.
